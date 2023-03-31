@@ -1,6 +1,6 @@
 Name:		texlive-tikz-planets
 Version:	55002
-Release:	1
+Release:	2
 Summary:	Illustrate celestial mechanics and the solar system
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-planets
