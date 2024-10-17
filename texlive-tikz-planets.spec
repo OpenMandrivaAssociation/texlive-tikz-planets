@@ -3,7 +3,7 @@ Version:	55002
 Release:	2
 Summary:	Illustrate celestial mechanics and the solar system
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-planets
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-planets
 License:	cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-planets.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-planets.doc.r%{version}.tar.xz
